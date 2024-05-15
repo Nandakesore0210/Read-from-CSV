@@ -33,3 +33,4 @@ print("Number of Column:",len(df.axes[1]))
 ## OUTPUT:
 ![alt text](image.png)
 ## RESULT:
+Thus the give problem to read CSV file is implemented and executed successfully.
